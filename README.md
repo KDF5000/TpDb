@@ -1,0 +1,2 @@
+# TpDb
+将ThinkPHP的Model独立成第三方库，可以通过Composer便捷的引入到项目中
