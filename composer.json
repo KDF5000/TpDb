@@ -1,0 +1,16 @@
+{
+    "name": "kdf5000/tpdb",
+    "description": "tpdb",
+    "authors": [
+        {
+            "name": "KDF5000",
+            "email": "kdf5000@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Think\\": "src/Think"
+        }
+    }
+}
